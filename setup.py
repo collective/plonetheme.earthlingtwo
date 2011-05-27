@@ -6,7 +6,8 @@ setup(
     version='0.1',
     description='An installable Diazo theme for Plone 4.1',
     long_description=open("README.rst", "rb").read() +
-        open(os.path.join("docs", "HISTORY.txt"), "rb").read(),
+                     open(os.path.join("docs", "HISTORY.txt"), "rb").read() +
+                     open("AUTHORS.rst", "rb").read(),
     author='Andrew Mleczko',
     author_email='amleczko@redturtle.it',
     url='http://pypi.python.org/pypi/plone.earthlingtwo',

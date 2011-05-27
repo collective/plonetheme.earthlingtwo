@@ -6,7 +6,7 @@ The ``plonetheme.earthlingtwo`` package uses the **theming** and **packaging** f
 available in `plone.app.theming`_ to make the `CSS Templates`_ theme `earthlingtwo`_ easily
 available in `Plone 4.1`_.
 
-.. image:: https://github.com
+.. image:: http://svn.plone.org/svn/collective/plonetheme.earthlingtwo/trunk/screenshot01.png
 
 Installation
 ------------
@@ -22,7 +22,7 @@ Zip file
 
 If you are an end user, you might enjoy installation via zip file import.
 
-1. Download the zip file: http://svn.plone.org/svn/collective/plonetheme.earthlingtwo
+1. Download the zip file: http://svn.plone.org/svn/collective/plonetheme.earthlingtwo/trunk/earthlingtwo.zip
 2. Import the theme from the Diazo theme control panel.
 
 Buildout
