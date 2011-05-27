@@ -53,6 +53,15 @@ Obviously there is more work to be done. If you want to help, pull requests acce
 * Add quick installer support
 * Improve styles 
 
+Authors
+-------
+
+This product was developed by RedTurtle Technology team.
+
+.. image:: http://www.redturtle.net/redturtle_banner.png
+   :alt: RedTurtle Technology Site
+      :target: http://www.redturtle.it/
+
 License
 -------
 
