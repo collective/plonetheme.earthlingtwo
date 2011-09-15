@@ -2,7 +2,8 @@
 <rules
     xmlns="http://namespaces.plone.org/diazo"
     xmlns:css="http://namespaces.plone.org/diazo/css"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    css:if-content="#visual-portal-wrapper">
 
     <theme href="index.html" />
     <notheme if-path="presentation_view"/>
