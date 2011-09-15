@@ -1,0 +1,15 @@
+
+Changelog
+=========
+
+0.2 (2011-09-15)
+----------------
+* Fix problem with ZMI (according to 
+  http://stackoverflow.com/questions/6815281/is-it-possible-to-specify-a-wildcard-in-diazo-notheme-if-path-rule)
+  [amleczko]
+
+0.1 (2011-05-27)
+------------------
+
+* Initial release 
+  [amleczko]
