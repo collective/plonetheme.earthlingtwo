@@ -9,10 +9,10 @@ The ``plonetheme.earthlingtwo`` package uses the **theming** and **packaging** f
 available in `plone.app.theming`_ to make the `TEMPLATED (CSS Templates)`_ theme `earthlingtwo`_ easily
 available in Plone 4.x version.
 
-.. image:: https://raw.githubusercontent.com/collective/plonetheme.earthlingtwo/master/screenshot01.png
-  :alt: A plonetheme.earthlingtwo product theme screenshot
+.. image:: https://raw.github.com/collective/plonetheme.earthlingtwo/master/screenshot01.png
+   :alt: A plonetheme.earthlingtwo product theme screenshot
 
-  *Earthlingtwo*: is a remake of an older template (Earthling). Bigger, better, and way more nature. Posted on September 16, 2009 in CSS Templates.
+*Earthlingtwo*: is a remake of an older template (Earthling). Bigger, better, and way more nature. Posted on September 16, 2009 in CSS Templates.
 
 
 Examples
