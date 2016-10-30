@@ -23,11 +23,13 @@ setup(
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
         'Topic :: Software Development :: Libraries :: Python Modules',
+        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
     ],
     keywords='web zope plone theme diazo',
     author='Andrew Mleczko',
     author_email='amleczko@redturtle.it',
     url='http://pypi.python.org/pypi/plonetheme.earthlingtwo',
+    license='GPL',
     packages=find_packages(),
     include_package_data=True,
     namespace_packages=[
