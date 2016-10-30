@@ -1,6 +1,20 @@
-
 Changelog
 =========
+
+0.3 (unreleased)
+----------------
+
+* Added GPL2 file and LICENSE file
+  [macagua]
+
+* Added manifest file and preview file for diazo theme
+  [macagua]
+
+* Update information about this package
+  [macagua]
+
+* Added more keywords and strings classifiers items for the PyPi metadata package
+  [macagua]
 
 0.2 (2011-09-15)
 ----------------
