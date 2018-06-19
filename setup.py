@@ -4,11 +4,11 @@ import os
 setup(
     name='plonetheme.earthlingtwo',
     version='0.3',
-    description='An installable Diazo theme for earthlingtwo Theme at Plone 4.x',
+    description='Earthlingtwo, is an installable Diazo theme for Plone 4',
     long_description=open("README.rst", "rb").read() +
                      open(os.path.join("docs", "HISTORY.txt"), "rb").read(),
     # Get more strings from
-    # https://pypi.python.org/pypi?%3Aaction=list_classifiers
+    # https://pypi.org/pypi?:action=list_classifiers
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
@@ -16,19 +16,25 @@ setup(
         'Framework :: Plone :: 4.1',
         'Framework :: Plone :: 4.2',
         'Framework :: Plone :: 4.3',
+        'Framework :: Plone :: Theme',
         'Framework :: Zope2',
         'Framework :: Zope3',
         'Intended Audience :: Developers',
+        'Intended Audience :: End Users/Desktop',
+        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
+        'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
+        'Topic :: Internet',
         'Topic :: Software Development :: Libraries :: Python Modules',
-        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
     ],
-    keywords='web zope plone theme diazo',
+    keywords='web zope plone theme diazo earthlingtwo',
     author='Andrew Mleczko',
     author_email='amleczko@redturtle.it',
-    url='http://pypi.python.org/pypi/plonetheme.earthlingtwo',
+    maintainer='Leonardo Caballero',
+    maintainer_email='leonardocaballero@gmail.com',
+    url='https://github.com/collective/plonetheme.earthlingtwo',
     license='GPL',
     packages=find_packages(),
     include_package_data=True,
