@@ -4,6 +4,9 @@ Changelog
 0.3 (unreleased)
 ----------------
 
+* Added improvements about README file
+  [macagua]
+
 * Updated some items and added others items for this package
   [macagua]
 
