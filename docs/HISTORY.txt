@@ -4,6 +4,9 @@ Changelog
 0.3 (unreleased)
 ----------------
 
+* Added quick installer support with GenericSetup profiles
+  [macagua]
+
 * Added GPL2 file and LICENSE file
   [macagua]
 
