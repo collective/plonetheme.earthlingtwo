@@ -4,6 +4,9 @@ Changelog
 0.3 (unreleased)
 ----------------
 
+* Updated manifest file for diazo theme
+  [macagua]
+
 * Added quick installer support with GenericSetup profiles
   [macagua]
 
