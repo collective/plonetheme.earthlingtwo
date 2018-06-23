@@ -4,6 +4,9 @@ Changelog
 0.3 (unreleased)
 ----------------
 
+* Fixed ValueError: Theme plonetheme.earthlingtwo is not available
+  [macagua]
+
 * Added improvements about README file
   [macagua]
 
